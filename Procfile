@@ -1,1 +1,1 @@
-web: gunicorn ycp.wsgradiant-hamlet-16365i --log-file -
+web: gunicorn ycp.wsgi --log-file -
